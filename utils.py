@@ -1,0 +1,1 @@
+options = ["Stone", "Paper", "Scissor"] 
